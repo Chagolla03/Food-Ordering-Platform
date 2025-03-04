@@ -1,5 +1,4 @@
 # Food-Ordering-Platform
-> [!NOTE]
 # Features
 
 #User Auth/Registration/Profiles
