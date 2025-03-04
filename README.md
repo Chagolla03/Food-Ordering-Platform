@@ -17,3 +17,7 @@ Shadcn, Tailwind, React Hook Form
 
 Auth0, Stripe, Cloudinary, Render
 
+# Paquetes a instalar
+npm i express cors dotenv mongosb mongoose
+
+npm i ts-node typescript nodemon @types/express @types/cors @types/node --save-dev
