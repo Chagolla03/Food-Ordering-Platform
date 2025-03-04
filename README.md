@@ -1,6 +1,6 @@
 # Food-Ordering-Platform
 
-Features
+#Features
 
 User Auth/Registration/Profiles
 
@@ -12,7 +12,7 @@ Manage Cart & Stripe Checkout
 
 Live Order Status
 
-Tech Stack
+#Tech Stack
 
 React, Node, MongoDB, Typescript
 
